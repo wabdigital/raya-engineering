@@ -1,0 +1,6 @@
+{
+  "name": "Raya Engineering",
+  "description": "Official website for Raya Engineering LTD, Nigeria's premier manufacturer of CLC lightweight concrete blocks and architectural GRP & GRC facade elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
